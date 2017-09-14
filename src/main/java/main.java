@@ -27,6 +27,12 @@ public class main {
         System.out.println("123");
         System.out.println("123");
         System.out.println("123");
+        if(d == c){
+            int myInt = 0;
+        } else {
+            int myInt = 1;
+        }
+
         System.out.println("123");
         System.out.println("123");
         System.out.println("123");
@@ -45,12 +51,6 @@ public class main {
 
         for(int i = 0; i < 10; ){
             i--;
-        }
-
-        if(d == c){
-            System.out.println("The two floats are FUCKING equal");
-        } else {
-            System.out.println("The two floats are FUCKING not equal at all");
         }
 
 
@@ -76,32 +76,6 @@ public class main {
     }
 
     public void longMethod2(){
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
-        System.out.println("123");
         System.out.println("123");
         System.out.println("123");
         System.out.println("123");
