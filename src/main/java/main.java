@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class main {
-    public static String author = "Akshat";
+    public static String author2 = "Akshat";
 
 
     public static void main(String[] args){
@@ -13,15 +13,27 @@ public class main {
         int a = 10;
         int b = 5;
         float c = a/(float)b;
-        System.out.println(c);
-
         float d = 2;
-
-        if(d == c){
-            System.out.println("The two floats are equal");
-        } else {
-            System.out.println("The two floats are not equal at all");
-        }
+        System.out.println(c);
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
 
         for(int i = 0; i<a; i++){
             System.out.print("Doing Nothing");
@@ -31,10 +43,58 @@ public class main {
 
         List list = new ArrayList<Integer>();
 
-//        while(true){
-//            x++;
-//        }
+        for(int i = 0; i < 10; ){
+            i--;
+        }
 
+        if(d == c){
+            System.out.println("The two floats are FUCKING equal");
+        } else {
+            System.out.println("The two floats are FUCKING not equal at all");
+        }
+
+
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+    }
+
+    public void longMethod2(){
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("123");
         System.out.println("123");
         System.out.println("123");
         System.out.println("123");
