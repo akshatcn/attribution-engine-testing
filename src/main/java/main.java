@@ -9,6 +9,9 @@ public class main {
         System.out.println("In the main function");
     }
 
+    /* this is just a test comment
+
+	which continues here. */
     public void longMethod(){
         int a = 10;
         int b = 5;
@@ -26,6 +29,7 @@ public class main {
         System.out.println("123");
         System.out.println("123");
         System.out.println("123");
+	//This is another comment
         System.out.println("123");
         if(d == c){
             int myInt = 0;
@@ -37,6 +41,7 @@ public class main {
         System.out.println("123");
         System.out.println("123");
         System.out.println("123");
+	//Just adding another random comment
         System.out.println("123");
         System.out.println("123");
         System.out.println("123");
