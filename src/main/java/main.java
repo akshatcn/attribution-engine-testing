@@ -14,7 +14,8 @@ public class main {
 	which continues here. */
     public void longMethod(){
 
-        int abc=0; int def=1000;
+        int abc=0;
+        int def=1000;
 
         int b = 5;
         int a = 10;
