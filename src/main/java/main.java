@@ -13,13 +13,16 @@ public class main {
 
 	which continues here. */
     public void longMethod(){
-        int a = 10;
+
+        int abc=0; int def=1000;
+
         int b = 5;
+        int a = 10;
         float c = a/(float)b;
-        float d = 2;
         System.out.println(c);
         System.out.println("123");
         System.out.println("123");
+        float d = 2;
         System.out.println("123");
         System.out.println("123");
         System.out.println("123");
@@ -50,9 +53,9 @@ public class main {
             System.out.print("Doing Nothing");
         }
 
-        int x = 0;
-
         List list = new ArrayList<Integer>();
+
+        int x = 0;
 
         for(int i = 0; i < 10; ){
             i--;
