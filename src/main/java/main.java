@@ -14,19 +14,18 @@ public class main {
 	which continues here. */
     public void longMethod(){
 
-        int abc=0;
-        int def=1000;
+        int abc=0; int def=1000;
 
-        int b = 5;
         int a = 10;
-        float c = a/(float)b;
-        System.out.println(c);
+        int b = 5;
         System.out.println("123");
         System.out.println("123");
         float d = 2;
         System.out.println("123");
         System.out.println("123");
         System.out.println("123");
+        float c = a/(float)b;
+        System.out.println(c);
         System.out.println("123");
         System.out.println("123");
         System.out.println("123");
