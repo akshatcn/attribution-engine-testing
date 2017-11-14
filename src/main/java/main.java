@@ -16,7 +16,8 @@ public class main {
         float modifyVariableType = 0;
         double changeVariableNameAndType = 0;
 
-        int a = 1;int b = 1;
+        int a = 1;
+        int b = 1;
 
         int c = 1;
         int d=1, e=1, f=1, g=1;
@@ -69,14 +70,16 @@ public class main {
     }
 
     void func2(String s){
+        //Let's just add a comment
         int addAnotherVarAfterThis = 0;
-        System.out.println("Move this line to different function");
+            System.out.println("Move this line to different function");
 
         System.out.println("This is the static line");
 
         System.out.println("This is another base line");
 
         int variableNameChangedAfterMoving = 99;
+
         int changeValueAfterMoving = 0;
 
     }
@@ -85,7 +88,7 @@ public class main {
 
         System.out.println("This is base for this function");
 
-        System.out.println("This is base for this function");
+        System.out.println("This is not a base for this function");
 
     }
 }
