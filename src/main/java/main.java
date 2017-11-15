@@ -89,6 +89,5 @@ public class main {
         System.out.println("This is base for this function");
 
         System.out.println("This is not a base for this function");
-
     }
 }
