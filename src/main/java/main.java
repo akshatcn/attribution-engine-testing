@@ -25,6 +25,8 @@ public class main {
         int changeThisExpression = a+b+c;
         int changeVariableNames = (d+3)/(e-10)*(f+1);
 
+        int createNewLineForFunctionChange = 100;
+
         System.out.println("Modify this line");
         System.out.println(x);
 
@@ -85,6 +87,8 @@ public class main {
     }
 
     void func3(Double d){
+
+        int createNewLineForDuplicateDetection = 10;
 
         System.out.println("Move this line to different function");
 
