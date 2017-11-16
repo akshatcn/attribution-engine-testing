@@ -13,6 +13,7 @@ public class main {
 
         float modifyVariableType = 0;
         double changeVariableNameAndType = 0;
+        double changeVariableNameAndType = 0;
 
         int a = 1;
         int b = 1;
@@ -29,6 +30,7 @@ public class main {
 
 
         //Swap the following lines
+        float modifyVariableType = 0;
         System.out.println("Second");
         System.out.println("First");
 
@@ -45,7 +47,6 @@ public class main {
         }
 
         System.out.println("4");
-        String move = "This is the line that would be moved";
         int x = i;
 
         System.out.println("5");
@@ -64,6 +65,7 @@ public class main {
         //move the following lines to last
         System.out.println("This is the first line. Which would be moved to last");
         if(i > 0){
+            String move = "This is the line that would be moved";
             System.out.println("This is inside a block");
         }
 
@@ -71,7 +73,6 @@ public class main {
 
     void func2(String s){
         //Let's just add a comment
-            System.out.println("Move this line to different function");
 
         System.out.println("This is the static line");
 
@@ -84,6 +85,7 @@ public class main {
 
     void func3(Double d){
 
+        System.out.println("Move this line to different function");
         System.out.println("This is base for this function");
 
         System.out.println("This is not a base for this function");
