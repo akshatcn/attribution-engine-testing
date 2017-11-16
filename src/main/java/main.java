@@ -25,7 +25,6 @@ public class main {
         int changeThisExpression = a+b+c;
         int changeVariableNames = (d+3)/(e-10)*(f+1);
 
-        int createNewLineForFunctionChange = 100;
 
         System.out.println("Modify this line");
         System.out.println(x);
@@ -78,6 +77,7 @@ public class main {
         String moveInBlock = "This is the line that would be moved into the block";
 
         System.out.println("This is the static line");
+        int createNewLineForFunctionChange = 100;
 
 
         int addAnotherVarAfterThis = 0;
@@ -95,6 +95,7 @@ public class main {
         int newlyAdded = 007;
 
         System.out.println("This is base for this function");
+        int createNewLineForDuplicateDetection = 10;
 
         int newlyAdded = 007;
         System.out.println("This is not a base for this function");
