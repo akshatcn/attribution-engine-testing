@@ -11,8 +11,6 @@ public class main {
 
     public static void func1(Integer i){
 
-        int x = i;
-        int variableNameModified = 0;
         float modifyVariableType = 0;
         double changeVariableNameAndType = 0;
 
@@ -35,6 +33,7 @@ public class main {
         System.out.println("First");
 
 
+        int variableNameModified = 0;
         System.out.println("1");
 
         System.out.println("2");
@@ -47,6 +46,7 @@ public class main {
 
         System.out.println("4");
         String move = "This is the line that would be moved";
+        int x = i;
 
         System.out.println("5");
 
@@ -71,16 +71,14 @@ public class main {
 
     void func2(String s){
         //Let's just add a comment
-        int addAnotherVarAfterThis = 0;
             System.out.println("Move this line to different function");
 
         System.out.println("This is the static line");
 
         System.out.println("This is another base line");
 
-        int variableNameChangedAfterMoving = 99;
-
-        int changeValueAfterMoving = 0;
+        int addAnotherVarAfterThis = 0;
+        int variableNameChangedAfterMoving = 99; int changeValueAfterMoving = 0;
 
     }
 
