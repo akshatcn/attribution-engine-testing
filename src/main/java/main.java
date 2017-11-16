@@ -73,12 +73,14 @@ public class main {
 
     void func2(String s){
         //Let's just add a comment
+        String moveInBlock = "This is the line that would be moved into the block";
 
         System.out.println("This is the static line");
 
 
         int addAnotherVarAfterThis = 0;
         int variableNameChangedAfterMoving = 99; int changeValueAfterMoving = 0;
+        int addAnotherVarAfter = 0;
 
     }
 
@@ -90,6 +92,7 @@ public class main {
 
         System.out.println("This is base for this function");
 
+        int newlyAdded = 007;
         System.out.println("This is not a base for this function");
     }
 }
