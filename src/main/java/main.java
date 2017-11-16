@@ -12,7 +12,7 @@ public class main {
     public static void func1(Integer i){
 
         float modifyVariableType = 0;
-        double changeVariableNameAndType = 0;
+        double changeVariableNameAndType = 111;
         double changeVariableNameAndType = 0;
 
         int a = 1;
@@ -30,7 +30,7 @@ public class main {
 
 
         //Swap the following lines
-        float modifyVariableType = 0;
+        float modifyVariableName = 0;
         System.out.println("Second");
         System.out.println("First");
 
@@ -76,7 +76,6 @@ public class main {
 
         System.out.println("This is the static line");
 
-        System.out.println("This is another base line");
 
         int addAnotherVarAfterThis = 0;
         int variableNameChangedAfterMoving = 99; int changeValueAfterMoving = 0;
@@ -86,6 +85,9 @@ public class main {
     void func3(Double d){
 
         System.out.println("Move this line to different function");
+
+        int newlyAdded = 007;
+
         System.out.println("This is base for this function");
 
         System.out.println("This is not a base for this function");
